@@ -12,3 +12,4 @@ decrementButton.addEventListener('click', () => {
     count--;
     counter.textContent = count;
 });
+let head = 6
